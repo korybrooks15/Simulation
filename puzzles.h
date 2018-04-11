@@ -58,6 +58,7 @@ void puzzles(int x) {
     cout << "1 bottle of drink + 1 bottle of drink + 1 bottle of drink = 30\n";
     cout << "1 bottle of drink + 1 cheeseburger + 1 cheeseburger = 20\n";
     cout << "1 cheeseburger + 2 glasses of drink + 2 glasses of drink = 9\n";
+    cout << "1 cheeseburger + 1 glass of drink × 1 bottle of drink = ?\n";
     getline.(cin, ans);
     if (ans != '15') {
       wrong_ans();
